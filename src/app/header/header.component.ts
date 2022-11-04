@@ -29,7 +29,6 @@ import { Component, OnInit } from '@angular/core';
               <a routerLink="/about">Sobre nós</a>
             </li>
             <button (click)="toggleDarkTheme()">Dark Mode Experimental</button>
-            <ion-icon name="contrast-outline"></ion-icon>
           </ul>
         </div>
       </div>
